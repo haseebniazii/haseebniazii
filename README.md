@@ -14,15 +14,31 @@
 
 <br><br>
 
-<!-- ============ PHASE 2 — Stats (self-hosted) ============ -->
-<img src="https://github-readme-stats.vercel.app/api?username=haseebniazii&show_icons=true&theme=dark&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0A101F&icon_color=A78BFA" width="100%" alt="Haseeb Khan GitHub Stats"/>
+<!-- ============ PHASE 2 — Stats ============ -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=haseebniazii&show_icons=true&theme=dark&hide_border=true" width="100%" alt="Haseeb Khan GitHub Stats"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=haseebniazii&theme=dark&hide_border=true" width="100%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=haseebniazii&show_icons=true&theme=dark&hide_border=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" width="49%" alt="GitHub Stats"/>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebniazii&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages"/>
+
+</div>
+
 <br><br>
+
+<!-- ============ PHASE 3 — Contribution snake ============ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haseebniazii/haseebniazii/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haseebniazii/haseebniazii/output/snake-light.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/haseebniazii/haseebniazii/output/snake-dark.svg" width="100%">
+</picture>
 
 <!-- ============ PHASE 3 — Contribution snake ============ -->
 <picture>
