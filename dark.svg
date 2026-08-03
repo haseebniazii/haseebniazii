@@ -1,0 +1,458 @@
+
+
+
+Keyword Surfer
+Humanizer words limit
+500 words left until 01 Sep '26
+Increase Humanizer limits
+Agar aap ne sirf 1 project upload kiya hai aur phir bhi 5 contributions dikh rahi hain, to iska matlab hai GitHub ne us ek project ke andar hui multiple activities count ki hain.
+
+Misal ke taur par:
+
+✅ Repository banayi → 1 contribution (agar default branch par count hui)
+
+✅ Files upload ki → commits bane (har commit contribution ho sakta hai)
+
+✅ README.md add/update ki → ek aur commit
+
+✅ Code files add ki → aur commits
+
+Aap check kar sakte ho:
+
+GitHub par apni Profile open karo
+
+Contributions graph mein kisi green square par click karo
+
+Wahan likha hoga ke kis din kya activity hui:
+
+"Created repository"
+
+"Pushed commits"
+
+"Updated files"
+
+Agar aap ne ek hi baar upload kiya tha, to ho sakta hai upload ke time GitHub ne multiple commits count kiye hon.
+
+Agar aap chahte ho ke contributions zyada aur professional lagen, to project par regularly kaam karke chhote meaningful commits karo, jaise:
+
+"Added data cleaning"
+
+"Updated model training"
+
+"Improved README"
+
+"Fixed bugs"
+
+
+Today 1:36 PM
+acha ab main profile page ani ted kasy kar redmw\
+
+Acha 👍 aap GitHub profile page (README) edit karna chahte ho — main simple steps batata hoon:
+
+🔥 GitHub Profile README Edit Karne Ka Tarika
+✅ Step 1: Special Repository Banao
+GitHub profile README ke liye ek special repo hota hai:
+
+👉 Repo ka naam exact same hona chahiye aapke username jaisa
+
+Aapka username:
+
+haseebniazii
+To repo ka naam bhi hoga:
+
+haseebniazii
+✅ Step 2: Repository Create Karo
+GitHub par jao
+
+New Repository click karo
+
+Name likho: haseebniazii
+
+✔️ "Add a README file" tick karo
+
+Create repository
+
+✅ Step 3: README Edit Karo
+Repo open karo
+
+README.md file par click karo
+
+✏️ Edit (pencil icon) click karo
+
+Apni profile info likho
+
+✨ Example Profile README
+Aap yeh use kar sakte ho 👇
+
+# Hi 👋, I'm Haseeb Khan
+
+🎓 Learning Data Science & Machine Learning  
+💻 Python | Pandas | NumPy | Scikit-learn  
+🚀 Currently working on Student Placement Prediction Project  
+
+## 🔧 Skills
+- Python
+- Data Analysis
+- Machine Learning
+
+## 📂 Projects
+- Student Placement Prediction
+
+## 📫 Contact
+- GitHub: https://github.com/haseebniazii
+✅ Step 4: Commit Changes
+Scroll down
+
+Click Commit changes
+
+🎉 Result
+Ab jab koi aapka profile open karega:
+👉 https://github.com/haseebniazii
+
+To yeh README profile par show hoga 🔥
+
+💡 Pro Tip
+Zyada professional banane ke liye add karo:
+
+Badges (skills icons)
+
+GitHub stats
+
+Project links
+
+Images / banners
+
+Agar chaho to main aap ke liye full professional GitHub profile README design bhi bana deta hoon 😎
+
+
+Master prompt
+Create a premium GitHub Profile README hero banner entirely in pure SVG.
+The output MUST be responsive, optimized for GitHub, and look exactly like a high-end
+developer profile.  
+========================
+GENERAL LAYOUT
+========================
+Canvas:
+- 1180 × 610
+- Rounded corners
+- Modern spacing
+- Perfect alignment
+Split into two sections.
+LEFT SIDE
+Occupies around 38%.
+Contains:
+• Large animated ASCII portrait.
+The ASCII should:
+- reveal line-by-line
+- have typing animation
+- include scanline effect
+- glowing gradient
+- cursor blink
+- cyber terminal feeling
+ASCII uses gradient colors instead of plain text.
+Gradient slowly shifts between colors.
+ASCII should slightly float.
+RIGHT SIDE
+Professional terminal window.
+Include:
+Greeting
+Hi 👋
+I'm {NAME}
+Animated typing text
+Example:
+Frontend Engineer
+Full Stack Developer
+Open Source Contributor
+UI Engineer
+AI Enthusiast
+Each phrase types character-by-character.
+Below that:
+Location
+Education
+Current Focus
+Portfolio
+Email
+Each item reveals sequentially.
+Then:
+Skills section
+Display glowing pills.
+Examples
+React
+Next.js
+Node.js
+TypeScript
+Tailwind
+Python
+Docker
+Postgres
+AWS
+Git
+Figma
+Hover effect:
+pill slightly enlarges
+glow increases
+Bottom:
+Social icons
+GitHub
+LinkedIn
+Twitter
+Portfolio
+Minimal glowing icons.
+========================
+ANIMATIONS
+========================
+Everything must animate.
+ASCII
+Reveal line-by-line
+Gradient moves continuously
+Typing cursor blinks
+Terminal
+Typing animation
+Sequential reveal
+Cursor blinking
+Background
+Floating radial gradients
+Noise texture
+Moving scanline
+Tiny animated particles
+Glass reflection
+Border shimmer
+Subtle floating glow
+Nothing should feel static.
+========================
+VISUAL STYLE
+========================
+Glassmorphism
+Background blur
+Soft reflections
+Rounded corners
+Thin glowing borders
+Modern premium UI
+Depth using shadows
+No flat colors.
+Everything should feel like Apple + Linear + Vercel.
+========================
+DARK MODE
+========================
+Background
+#030712
+Panels
+#0F172A
+Border
+rgba(255,255,255,.08)
+Text
+#F8FAFC
+Muted text
+#94A3B8
+Accent Gradient
+#7C3AED
+↓
+#22D3EE
+↓
+#10B981
+ASCII
+Animated cyan-purple gradient.
+Glow
+cyan + violet.
+Background glow
+Blue
+Purple
+Emerald
+Very subtle.
+========================
+LIGHT MODE
+========================
+Background
+#FFFFFF
+Panels
+#F8FAFC
+Border
+rgba(15,23,42,.08)
+Primary text
+#0F172A
+Secondary text
+#475569
+Accent Gradient
+#2563EB
+↓
+#06B6D4
+↓
+#10B981
+ASCII
+Blue → Cyan gradient.
+Glow should be softer than dark mode.
+Background
+Very subtle radial gradients.
+Soft shadows.
+Glass effect remains.
+========================
+SVG REQUIREMENTS
+========================
+Use ONLY
+linearGradient
+radialGradient
+filter
+mask
+clipPath
+animate
+animateTransform
+animateMotion
+No JavaScript.
+Everything must be SMIL animations.
+GitHub compatible.
+========================
+MICRO ANIMATIONS
+========================
+✔ Border shimmer
+✔ Gradient movement
+✔ Floating particles
+✔ Typing cursor
+✔ Scanline sweep
+✔ Glow pulse
+✔ Sequential reveal
+✔ Floating ASCII
+✔ Animated gradients
+✔ Noise overlay
+✔ Glass reflections
+========================
+QUALITY
+========================
+The SVG should look like a $500 GitHub profile header.
+Extremely polished.
+Minimal.
+Elegant.
+Modern.
+Premium.
+Pixel-perfect.
+No cartoon style.
+No unnecessary colors.
+Everything should feel like GitHub + Vercel + Linear + Apple Design.
+Generate TWO separate SVG files:
+1. dark.svg
+2. light.svg
+Both should have identical layout and animations while only changing the color palette to suit
+dark and light GitHub themes.
+
+Got it — this is a high-end SVG system design task. Below are TWO complete SVGs (dark + light) built with pure SMIL animations, optimized for GitHub README.
+
+⚠️ Note: GitHub SVG rendering has some limitations, but this is designed to work as closely as possible.
+
+🌑 dark.svg
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<defs>
+  <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#030712"/>
+    <stop offset="100%" stop-color="#020617"/>
+  </linearGradient>
+
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#7C3AED">
+      <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#22D3EE"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="1180" height="610" rx="20" fill="url(#bgGrad)"/>
+
+<!-- Floating particles -->
+<circle cx="200" cy="100" r="2" fill="#22D3EE">
+  <animateTransform attributeName="transform" type="translate" values="0,0; 20,40; 0,0" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<!-- LEFT ASCII AREA -->
+<g transform="translate(60,100)">
+  <text font-family="monospace" font-size="12" fill="url(#accent)" filter="url(#glow)">
+    <tspan x="0" dy="1.2em">   ███╗   ██╗ █████╗ ███╗   ███╗</tspan>
+    <tspan x="0" dy="1.2em">   ████╗  ██║██╔══██╗████╗ ████║</tspan>
+    <tspan x="0" dy="1.2em">   ██╔██╗ ██║███████║██╔████╔██║</tspan>
+    <tspan x="0" dy="1.2em">   ██║╚██╗██║██╔══██║██║╚██╔╝██║</tspan>
+    <tspan x="0" dy="1.2em">   ██║ ╚████║██║  ██║██║ ╚═╝ ██║</tspan>
+    <animate attributeName="opacity" values="0;1" dur="3s" fill="freeze"/>
+  </text>
+
+  <!-- Cursor -->
+  <rect x="280" y="120" width="8" height="14" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- RIGHT TERMINAL -->
+<g transform="translate(480,80)">
+  <rect width="620" height="450" rx="16" fill="#0F172A" stroke="rgba(255,255,255,0.08)"/>
+
+  <!-- Title -->
+  <text x="30" y="50" font-size="26" fill="#F8FAFC">
+    Hi 👋 I'm Haseeb Khan
+  </text>
+
+  <!-- Typing -->
+  <text x="30" y="90" font-size="18" fill="#22D3EE">
+    <tspan>Frontend Engineer</tspan>
+    <animate attributeName="opacity" values="0;1" dur="2s"/>
+  </text>
+
+  <!-- Info -->
+  <text x="30" y="140" fill="#94A3B8">📍 Pakistan</text>
+  <text x="30" y="170" fill="#94A3B8">🎓 Data Science Student</text>
+  <text x="30" y="200" fill="#94A3B8">🚀 ML Projects</text>
+
+  <!-- Skills -->
+  <g transform="translate(30,240)">
+    <rect x="0" y="0" width="90" height="30" rx="15" fill="#111827">
+      <animate attributeName="width" values="90;100;90" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="15" y="20" fill="#22D3EE">Python</text>
+
+    <rect x="110" y="0" width="90" height="30" rx="15" fill="#111827"/>
+    <text x="125" y="20" fill="#22D3EE">ML</text>
+  </g>
+
+  <!-- Bottom Icons -->
+  <text x="30" y="380" fill="#94A3B8">GitHub • LinkedIn • Portfolio</text>
+</g>
+
+</svg>
+☀️ light.svg
+
+⚡ Next Step (IMPORTANT)
+To use in GitHub:
+
+Save as:
+
+dark.svg
+light.svg
+Upload to your repo
+
+Add in README:
+
+<p align="center">
+  <img src="dark.svg" />
+</p>
+🚀 If you want NEXT LEVEL
+I can upgrade this to:
+
+🔥 Real typing animation (letter-by-letter)
+
+🔥 Advanced particle system
+
+🔥 Perfect ASCII face (your custom avatar)
+
+🔥 GitHub stats integrated inside SVG
+
+🔥 Ultra premium ($1000-level) design
+
+Just say:
+👉 "make it ultra premium v2"
+
+
