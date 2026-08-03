@@ -1,12 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dar.svg">
-  <source media="(prefers-color-scheme: light)" srcset="ligh.svg">
-  <img alt="Haseeb Khan banner" src="dar.svg" width="100%">
-</picture>
-
-</div>
 
 <br>
 
@@ -24,13 +15,13 @@
 <br><br>
 
 <!-- ============ PHASE 2 — Stats (self-hosted) ============ -->
-<img src="https://github-readme-stats-yourname.vercel.app/api/pin/?username=haseebniazii&repo=REPLACE_ME&theme=dark&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0A101F&icon_color=A78BFA" width="100%" alt="pinned repo (optional, remove if unused)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haseebniazii&show_icons=true&theme=dark&hide_border=true&title_color=22D3EE&text_color=E5E7EB&bg_color=0A101F&icon_color=A78BFA" width="100%" alt="Haseeb Khan GitHub Stats"/>
 
-<img src="https://streak-stats-yourname.vercel.app/?user=haseebniazii&theme=dark&hide_border=true&background=0A101F&ring=A78BFA&fire=EF4444&currStreakLabel=22D3EE" width="100%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=haseebniazii&theme=dark&hide_border=true" width="100%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats-yourname.vercel.app/api?username=haseebniazii&show_icons=true&theme=dark&hide_border=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=haseebniazii&layout=compact&theme=dark&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haseebniazii&show_icons=true&theme=dark&hide_border=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" width="49%" alt="GitHub Stats"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebniazii&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages"/>
 <br><br>
 
 <!-- ============ PHASE 3 — Contribution snake ============ -->
