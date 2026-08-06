@@ -1,14 +1,28 @@
 <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Haseeb+Khan;Machine+Learning+Engineer+in+Progress;Data+Science+%7C+Python+%7C+AI;Building+ML+Projects+and+Learning+Everyday" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Haseeb Khan" src="dark.svg" width="100%">
+</picture>
 
-<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=haseebniazii&theme=algolia&no-frame=true&margin-w=10" />
+<!-- ============ PHASE 3 — Contribution snake ============ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haseebniazii/haseebniazii/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haseebniazii/haseebniazii/output/snake-light.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/haseebniazii/haseebniazii/output/snake-dark.svg" width="100%">
+</picture>
+
+<!-- ============ PHASE 4 — Social badges ============ -->
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
----
+
 
 ## 👋 About Me
 
