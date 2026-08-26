@@ -24,13 +24,13 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Frontend Developer** building clean, responsive user interfaces
-- 📱 **Android App Developer** — building mobile applications
-- 🧠 Diving deep into **AI, Machine Learning & Data Science**
-- 🎓 **BSCS** graduate/student, currently focused on **AI / ML**
-- 📊 Working with **data analysis, visualization & predictive modeling**
-- 🤝 Open to collaborating on **Web, Mobile, AI & Open Source projects**
-- ⚡ Fun fact: I love turning ideas into projects and learning new technologies every day 🚀
+- **Frontend Developer** building clean, responsive user interfaces
+- **Android App Developer** building practical mobile applications
+- **AI, Machine Learning & Data Science** enthusiast
+- **BSCS** student focused on **AI / ML**
+- Working with **data analysis, visualization & predictive modeling**
+- Open to collaborating on **Web, Mobile, AI & Open Source projects**
+- Passionate about turning ideas into projects and learning new technologies every day
 
 ---
 
