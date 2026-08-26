@@ -15,7 +15,7 @@
 📍 Pakistan &nbsp;|&nbsp; 🎓 BSCS &nbsp;|&nbsp; 🎯 Current Focus: **AI / ML**
 
 <!-- Add your links once ready -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haseebniazii.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
@@ -97,7 +97,7 @@
 <div align="center">
 
 <!-- Add your real profile links here once ready -->
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/haseebniiazi/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
