@@ -24,13 +24,15 @@
 
 ## 👨‍💻 About Me
 
-- **Frontend Developer** building clean, responsive user interfaces
-- **Android App Developer** building practical mobile applications
-- **AI, Machine Learning & Data Science** enthusiast
-- **BSCS** student focused on **AI / ML**
-- Working with **data analysis, visualization & predictive modeling**
-- Open to collaborating on **Web, Mobile, AI & Open Source projects**
-- Passionate about turning ideas into projects and learning new technologies every day
+I’m a BSCS student focused on Machine Learning, Deep Learning, and Generative AI.
+
+My journey started with Machine Learning and data analysis, where I’ve worked with Python, NumPy, Pandas, Matplotlib, and Scikit-learn across the ML workflow — from data cleaning and exploratory data analysis to feature engineering, model training, and evaluation.
+
+I’m currently expanding into Deep Learning with PyTorch and exploring Generative AI and LLMs, including Transformers, embeddings, RAG, tool calling, AI agents, fine-tuning, evaluation, and LLM deployment.
+
+I learn by understanding concepts, working with real-world datasets, building projects, and experimenting with different approaches.
+
+🎯 **Current Focus:** Machine Learning → Deep Learning → Generative AI
 
 ---
 
