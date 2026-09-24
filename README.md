@@ -50,7 +50,7 @@ I learn by understanding concepts, working with real-world datasets, building pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=6" />
 
 </div>
 
@@ -60,7 +60,7 @@ I learn by understanding concepts, working with real-world datasets, building pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter&perline=6" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java&perline=6" />
 
 </div>
 
