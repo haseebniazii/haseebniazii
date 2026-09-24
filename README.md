@@ -110,14 +110,6 @@ I learn by understanding concepts, working with real-world datasets, building pr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/haseebniazii/haseebniazii/snake-output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🚀 *"Learning today, building tomorrow with AI"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=haseebniazii&color=blue&style=flat)
